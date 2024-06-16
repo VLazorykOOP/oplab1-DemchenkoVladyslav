@@ -1,0 +1,17 @@
+﻿  Lab1.cpp
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(43,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(113,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(221,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(227,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(234,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(242,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(247,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(253,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(258,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(272,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(276,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(135,1): warning C4715: 'alg1::T': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(220,1): warning C4715: 'alg1::U': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(205,1): warning C4715: 'alg1::U': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(112,1): warning C4715: 'alg1::T': not all control paths return a value
+  Lab1.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1.exe
