@@ -1,0 +1,20 @@
+﻿  Lab1Task3.cpp
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(99,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(168,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(267,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(268,3): warning C5043: 'Task2::alg1::srz': exception specification does not match previous declaration
+  D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(26,10):
+  see declaration of 'Task2::alg1::srz'
+  
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(273,109): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(283,110): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(293,118): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(299,88): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(324,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(339,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(355,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(251,1): warning C4715: 'Task2::alg1::U': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(266,1): warning C4715: 'Task2::alg1::U': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(167,1): warning C4715: 'Task2::alg1::T': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1Task3\Lab1Task3.cpp(182,1): warning C4715: 'Task2::alg1::T': not all control paths return a value
+  Lab1Task3.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1Task3.exe
