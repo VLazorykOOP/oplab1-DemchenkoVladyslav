@@ -15,19 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab1Task1.cpp">
+    <ClCompile Include="..\Lab1\Lab1Task2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="dat_X_1_1.dat">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="dat_X_00_1.dat">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="dat_X_1_00.dat">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
 </Project>

@@ -1,17 +1,20 @@
-﻿  Lab1.cpp
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(43,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(113,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(221,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(227,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(234,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(242,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(247,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(253,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(258,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(272,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(276,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(135,1): warning C4715: 'alg1::T': not all control paths return a value
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(220,1): warning C4715: 'alg1::U': not all control paths return a value
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(205,1): warning C4715: 'alg1::U': not all control paths return a value
-D:\programming\Практика2024\Lab1\Lab1\Lab1.cpp(112,1): warning C4715: 'alg1::T': not all control paths return a value
-  Lab1.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab1Task1.cpp
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(44,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(114,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(222,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(228,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(235,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(243,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(248,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(254,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(259,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(273,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(277,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(293,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(206,1): warning C4715: 'Task1::alg1::U': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(136,1): warning C4715: 'Task1::alg1::T': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(113,1): warning C4715: 'Task1::alg1::T': not all control paths return a value
+D:\programming\Практика2024\Lab1\Lab1\Lab1Task1.cpp(221,1): warning C4715: 'Task1::alg1::U': not all control paths return a value
+  Lab1.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1_1.exe
