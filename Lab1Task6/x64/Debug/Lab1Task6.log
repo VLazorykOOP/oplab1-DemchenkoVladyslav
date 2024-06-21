@@ -1,0 +1,11 @@
+﻿  Lab1Task6.cpp
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(103,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(107,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(166,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(174,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(178,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(186,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(201,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(211,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\programming\Практика2024\Lab1\Lab1Task6\Lab1Task6.cpp(28,1): warning C5082: second argument to 'va_start' is not the last named parameter
+  Lab1Task6.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1Task6.exe
