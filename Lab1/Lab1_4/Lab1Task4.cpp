@@ -88,7 +88,7 @@ namespace Task4 {
 		{
 			fstream fs(file2);
 			if (!fs)throw ToAlg3();
-			if (x >= -10 || x <= 10)throw ToAlg2();
+			if (x < -10 || x > 10)throw ToAlg2();
 			double X, value;
 			fs >> X >> value;
 			while (X < x)
@@ -104,7 +104,7 @@ namespace Task4 {
 		{
 			fstream fs(file1);
 			if (!fs)throw ToAlg2();
-			if (x >= -5 && x <= 5)throw ToAlg2();
+			if (x < -5 || x > 5)throw ToAlg2();
 			double X, value;
 			fs >> X >> value;
 			while (X < x)
