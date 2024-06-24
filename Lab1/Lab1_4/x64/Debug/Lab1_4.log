@@ -4,7 +4,7 @@ D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(53,47): warning C4
 D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(59,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
 D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(119,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
 D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(123,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(152,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(156,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(153,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(157,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
 D:\programming\Практика2024\Lab1\Lab1_4\Lab1Task4.cpp(20,1): warning C5082: second argument to 'va_start' is not the last named parameter
   Lab1_4.vcxproj -> D:\programming\Практика2024\Lab1\x64\Debug\Lab1Task4.exe

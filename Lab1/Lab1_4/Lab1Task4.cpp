@@ -63,7 +63,7 @@ namespace Task4 {
 		double GText(string text)
 		{
 			fstream fs(file3);
-			if (!fs) return cout << "unable to open file dat3.dat", 0;
+			if (!fs) return cout << "unable to open file dat3.dat" << endl, 0;
 			string s;
 			double value;
 			while (!fs.eof())
@@ -104,7 +104,7 @@ namespace Task4 {
 		{
 			fstream fs(file1);
 			if (!fs)throw ToAlg2();
-			if (x >= -5 || x <= 5)throw ToAlg2();
+			if (x >= -5 && x <= 5)throw ToAlg2();
 			double X, value;
 			fs >> X >> value;
 			while (X < x)
@@ -132,6 +132,7 @@ namespace Task4 {
 			}
 			catch (ToAlg2)
 			{
+				cout << "switched to Alg 2" << endl;
 				return alg2::Rnk(x, y);
 			}
 		}
@@ -201,6 +202,7 @@ int main()
 		r = alg1::Rnk(x, y) + alg1::Rnk(y, z) * alg1::Rnk(x, y);
 	}
 	catch (ToAlg3) {
+		cout << "switched to Alg 3" << endl;
 		r = alg3::func(x, y, z);
 	}
 
@@ -210,6 +212,7 @@ int main()
 		k = alg1::Rrr(f, r, k);
 	}
 	catch (KToZero) {
+		cout << "K is 0" << endl;
 		k = 0;
 	}
 
